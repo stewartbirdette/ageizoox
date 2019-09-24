@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vohvaeseej.v-bikes.net/sitemap.xml
